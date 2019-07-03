@@ -1,3 +1,3 @@
 var testFn = () => {
-    console.log("test function is running!");
+    alert("test function is running!");
 }
